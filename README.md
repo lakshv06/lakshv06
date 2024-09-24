@@ -1,4 +1,4 @@
-<img src="./public/giphy.webp" alt="Programming meme here">
+<img style = "width: 100%; height: auto; " src="./public/giphy.webp" alt="Programming meme here">
 
 ### Hi there 👋
 

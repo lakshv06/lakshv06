@@ -1,4 +1,4 @@
-![Programming Meme](img src="https://plaky.com/blog/programming-memes/")
+<img src="./public/programmer-meme-text-hide-and-seek-champion-since-1958.jpeg" alt="Programming meme here">
 
 ### Hi there 👋
 

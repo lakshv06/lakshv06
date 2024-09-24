@@ -1,4 +1,4 @@
-<img src="https://plaky.com/blog/programming-memes/">
+![Programming Meme](img src="https://plaky.com/blog/programming-memes/")
 
 ### Hi there 👋
 
@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning System design and DSA concepts.
 - 👯 I’m looking to collaborate on basically anything if time is not a constraint towards learning.
 - 💬 Ask me about variety of DSA related problems (High chances I may take longer time to solve)
-- 📫 How to reach me: <lakshvma@gmail.com> / <a href="https://www.linkedin.com/in/lakshya-verma-492a51174/">Find Laksh</a><>
+- 📫 How to reach me: <lakshvma@gmail.com> / <a href="https://www.linkedin.com/in/lakshya-verma-492a51174/">Find Laksh</a>

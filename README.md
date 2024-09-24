@@ -1,4 +1,4 @@
-<img src="./public/programmer-meme-text-hide-and-seek-champion-since-1958.jpeg" alt="Programming meme here">
+<img src="./public/giphy.webp" alt="Programming meme here">
 
 ### Hi there 👋
 

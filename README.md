@@ -72,15 +72,7 @@ I'm a passionate software developer with a love for coding and creating awesome 
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
-<h2 align="left">Connect with me 🤝</h2>
-<p align="center">
-<h2 align="left">Connect with me 🤝</h2>
-<p align="center">
-    <a href="https://in.linkedin.com/in/lakshya-verma-492a51174">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-</p>
-
-</p>
+### Connect with me 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/lakshya-verma-492a51174)
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>

@@ -1,5 +1,3 @@
-<img style = "width: 100%; height: auto; " src="./public/giphy.webp" alt="Programming meme here">
-
 ### Hi there 👋, I am Lakshya
 
 <hr>
@@ -76,8 +74,8 @@ I'm a passionate software developer with a love for coding and creating awesome 
 
 <h2 align="left">Connect with me 🤝</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/lakshya-verma-492a51174/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lakshya-verma-492a51174/"/></a>&nbsp;
-<a href="mailto:lakshvma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lakshvma@gmail.com"/></a>&nbsp;
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="lakshya-verma-492a51174" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/lakshya-verma-492a51174?trk=profile-badge">Lakshya Verma</a></div>
 </p>
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>

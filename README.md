@@ -3,8 +3,7 @@
 <hr>
 I'm a passionate software developer with a love for coding and creating awesome projects 💻. Do 🌟 my repository if you find my projects interesting, at least your star could make someone's day 😄.
 
-- 👀 I'm proficient in C++, Javascript, Typescript and more.
-- 🔭 Currently learning iOS development, backend development nd improving my system design skills.
+- 👀 I'm proficient in C++, Java, Javascript, Typescript and more.
 - 🚀 I'm always working on fun side projects in my free time.
 - 👯 I’m looking to collaborate on fullstack projects that leverages use of genAI and variety of device platforms.
 - 💬 Ask me about variety of DSA related problems.
